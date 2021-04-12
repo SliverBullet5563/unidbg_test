@@ -1,0 +1,40 @@
+Name:	adbd
+State:	S (sleeping)
+Tgid:	499
+Pid:	499
+PPid:	1
+TracerPid:	0
+Uid:	2000	2000	2000	2000
+Gid:	2000	2000	2000	2000
+FDSize:	64
+Groups:	1004 1007 1011 1015 1028 3001 3002 3003 3006 
+VmPeak:	   12032 kB
+VmSize:	    8912 kB
+VmLck:	       0 kB
+VmPin:	       0 kB
+VmHWM:	     788 kB
+VmRSS:	     468 kB
+VmData:	    8068 kB
+VmStk:	     136 kB
+VmExe:	     556 kB
+VmLib:	       0 kB
+VmPTE:	      28 kB
+VmSwap:	      28 kB
+Threads:	6
+SigQ:	0/9060
+SigPnd:	0000000000000000
+ShdPnd:	0000000000000000
+SigBlk:	0000000000000000
+SigIgn:	0000000000001000
+SigCgt:	0000000000000000
+CapInh:	0000000000000000
+CapPrm:	0000000000000000
+CapEff:	0000000000000000
+CapBnd:	00000000000000c0
+Seccomp:	0
+Cpus_allowed:	ff
+Cpus_allowed_list:	0-7
+Mems_allowed:	1
+Mems_allowed_list:	0
+voluntary_ctxt_switches:	672126
+nonvoluntary_ctxt_switches:	22252
